@@ -1,0 +1,24 @@
+# Core Dependencies
+phevaluator>=0.3.1
+numpy>=1.24.0
+pandas>=2.0.0
+
+# GUI
+PyQt6>=6.5.0
+PyQt6-sip>=13.6.0
+
+# Game Theory & Math
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Data Processing
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+tqdm>=4.66.0
+colorama>=0.4.6
